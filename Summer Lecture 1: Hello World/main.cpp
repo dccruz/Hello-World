@@ -1,15 +1,18 @@
-//
-//  main.cpp
-//  Summer Lecture 1: Hello World
-//
-//  Created by SMC  on 6/12/17.
-//  Copyright © 2017 DC Cruz. All rights reserved.
-//
-
+//# = directive make available the library
+//iostream - library which has all the definitions of the shortcuts
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
+using namespace std;
+int main()
+{
+   
+//    Cout = Charcter outstream
+//    "= what you want to print out
+//    /n = next line
     std::cout << "Hello, World!\n";
+
+ 
+//    end the program
     return 0;
+
 }
