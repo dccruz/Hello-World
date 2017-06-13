@@ -9,7 +9,7 @@ int main()
 //    Cout = Charcter outstream
 //    "= what you want to print out
 //    /n = next line
-    std::cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
 
  
 //    end the program
