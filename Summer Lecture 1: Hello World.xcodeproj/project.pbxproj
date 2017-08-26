@@ -27,7 +27,8 @@
 		9B4E71F11EEFB6070095DBC7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFrameworksBuildPhase section */
+/* Begin PBXFrameworksBuildPhase 
+section */
 		9B4E71EB1EEFB6070095DBC7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
