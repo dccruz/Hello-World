@@ -1,5 +1,5 @@
 //# = directive make available the library
-//iostream - library which has all the definitions of the shortcuts
+//iostream - library which has all the definitions of  shortcuts
 #include <iostream>
 
 using namespace std;
